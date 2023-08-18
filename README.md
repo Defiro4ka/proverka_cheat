@@ -1,0 +1,2 @@
+# proverka_cheat
+vscript
